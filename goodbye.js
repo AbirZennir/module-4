@@ -6,4 +6,4 @@ function(window) {
 	
 	window.byeSpeaker = byeSpeaker;
 
-};
+}
